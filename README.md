@@ -10,6 +10,7 @@
     <meta property="og:description" content="Fake CV LOL">
     <meta property="og:url" content="Insert URL Here">
     <link rel="icon" type="image/x-icon" href="gambar/Pretelan2.ico">
+    <a href="https://roadmap.sh/projects/single-page-cv"></a>
 </head>
 <body>
     <hr>
