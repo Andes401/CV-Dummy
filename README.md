@@ -10,7 +10,6 @@
     <meta property="og:description" content="Fake CV LOL">
     <meta property="og:url" content="Insert URL Here">
     <link rel="icon" type="image/x-icon" href="gambar/Pretelan2.ico">
-    <title>CV Dummy</title>
 </head>
 <body>
     <hr>
